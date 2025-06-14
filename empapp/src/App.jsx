@@ -2,9 +2,9 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Add from './components/Add'
+import Add from './components/add'
 import NavBar from './components/NavBar'
-import View from './components/view'
+import View from './components/View'
 import { Route, Routes } from 'react-router-dom'
 
 
